@@ -14,7 +14,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/sundaycheng/v2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/sundayz01/v2ray-heroku)
 
 ## ENV 设定
 
@@ -24,7 +24,7 @@
 
 ## 注意
 
-WebSocket 路径为 `/`。
+WebSocket 路径为 `/ws`。
 
 `alterId` 为 `64`。
 
